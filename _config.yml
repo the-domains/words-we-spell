@@ -1,15 +1,15 @@
 analytics: {}
 color:
   brandColors:
-    - '#DACAA9'
-    - '#1D0B07'
-    - '#C8AE40'
-    - '#764C1A'
-    - '#CA8160'
-  brandStrength: 0.80518
-  lightness: 0.757882
-  rhythmicContrast: 0.048423
-  saturation: 0.789414
+    - '#B2B4B3'
+    - '#D7D6D1'
+    - '#BEAB28'
+    - '#97680E'
+    - '#F9F379'
+  brandStrength: 0.751126
+  lightness: 0.558558
+  rhythmicContrast: 0
+  saturation: 1
 cta: {}
 layout_spectrum: 0.789414
 name: WORDS we SPELL
