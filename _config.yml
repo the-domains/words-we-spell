@@ -6,10 +6,10 @@ color:
     - '#BEAB28'
     - '#97680E'
     - '#F9F379'
-  brandStrength: 0.751126
+  brandStrength: 0.510135
   lightness: 0.558558
-  rhythmicContrast: 0
-  saturation: 1
+  rhythmicContrast: 1
+  saturation: 0.570945
 cta: {}
 layout_spectrum: 0.789414
 name: WORDS we SPELL
