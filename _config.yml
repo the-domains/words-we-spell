@@ -6,12 +6,12 @@ color:
     - '#C8AE40'
     - '#764C1A'
     - '#CA8160'
-  brandStrength: 0
+  brandStrength: 0.80518
   lightness: 0.757882
-  rhythmicContrast: 0.671171
-  saturation: 1
+  rhythmicContrast: 0.048423
+  saturation: 0.789414
 cta: {}
-layout_spectrum: 0.70045
+layout_spectrum: 0.789414
 name: WORDS we SPELL
 opengraph: {}
 purpose: {}
